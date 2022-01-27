@@ -8,4 +8,4 @@ Repository containing technical tests for the Oddbox Technology Team
 
 * Full Stack Test
 
-> Designed to test  fundamental understanding of building and using the django framework to expose data for web applications. 
+> Designed to test fundamental understanding of building and using the django framework to expose data for web applications. 
