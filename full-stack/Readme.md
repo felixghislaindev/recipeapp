@@ -11,7 +11,7 @@ Your task is to model and store blog post data, expose the data via an API, and 
 3. Expose the blog posts via an api that supports pagination
 4. Create a react component to fetch data from the api you created in step 3 and display in a looping carousel [mockup](mockup.png)
 
-Please create a private GitHub fork of this repository and commit your changes. 
+Please download this repository, add your changes, and upload them to a private GitHub repository. Invite [oddbox-team](https://github.com/oddbox-team) as a collaborator.
 
 Please update this readme with instructions and any assumptions you may have made.
 
