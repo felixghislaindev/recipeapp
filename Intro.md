@@ -4,7 +4,7 @@ This is a short outline of our hiring process for software engineers at Oddbox. 
 
 During the interview process you’ll get a chance to meet a lot of people you’d be potentially working with in the future. We’d like to keep those meetings conversational as much as possible. We will always make sure there is sufficient time in every stage of the process for you to ask questions at the end, but feel free to ask questions at any time.
 
-## Initial call with our talent team
+## Initial call with our talent team
 15mins
 
 Quick chat to go over what is Oddbox, our mission, and what makes you want to work here.
