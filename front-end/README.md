@@ -2,17 +2,21 @@
 
 The Oddbox Front-End technical test is designed to test your fundamental understanding of building a React application and fetching data from an API endpoint.
 
+Please download this repository, add your changes, and upload them to a private GitHub repository. Invite [oddbox-team](https://github.com/oddbox-team) as a collaborator.
+
+Please update this readme with instructions and any assumptions you may have made.
+
 Please do not spend longer than 4 hours on the task - we are looking to understand your approach rather than your ability to build something production-ready in a morning!
 
 ## Task
 
 Your task is to build a simple front-end to display recipes for customers.
 
-This front-end would consist of several pages. Each page has been detailed below, with an overview of how the user will interact with it and what it could look like. 
+This front-end would consist of several pages. Each page has been detailed below, with an overview of how the user will interact with it and what it could look like.
 
 We already have recipes served via a local API to provide you some recipe data. The API has already been created to serve recipe data. You **do not** need to modify the API code in any way. 
 
-We have provided wireframes in the `wireframes/` folder to give an idea of what we would like these pages to look like. We are not looking for pixel-perfect design and we do not mind about exact colours and fonts. We have just provided these wireframes to give an idea of the page layout and functionality. 
+We have provided wireframes in the `wireframes/` folder to give an idea of what we would like these pages to look like. We are not looking for pixel-perfect design and we do not mind about exact colours and fonts. We have just provided these wireframes to give an idea of the page layout and functionality.
 
 ### Page 1 - All Recipes List
 
