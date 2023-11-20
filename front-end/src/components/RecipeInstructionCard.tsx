@@ -18,7 +18,6 @@ const RecipeInstructionCard: React.FC<RecipeInstructionCardProps> = ({
             className="flex items-center mb-4 border-b border-gray-300 pb-4"
           >
             <div className="flex-shrink-0 w-1/3 pr-4">
-              {/* Image on the left */}
               {step.step_image && (
                 <img
                   src={step.step_image.url}
