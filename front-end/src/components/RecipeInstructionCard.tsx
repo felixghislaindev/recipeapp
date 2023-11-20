@@ -28,7 +28,6 @@ const RecipeInstructionCard: React.FC<RecipeInstructionCardProps> = ({
               )}
             </div>
             <div className="w-2/3">
-              {/* Step information on the right */}
               <p className="text-xl font-bold mt-2">Step {index + 1}</p>
               <p className="text-gray-600">{step.step_text.text}</p>
             </div>

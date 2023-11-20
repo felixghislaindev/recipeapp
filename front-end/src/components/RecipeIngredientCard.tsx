@@ -8,7 +8,6 @@ interface RecipeIngredientCardProps {
 const RecipeIngredientCard: React.FC<RecipeIngredientCardProps> = ({
   recipeData,
 }) => {
-  console.log(recipeData.body);
   return (
     <div className="bg-white p-4 rounded-md">
       <div>

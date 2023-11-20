@@ -12,7 +12,6 @@ const RecipeHeaderCard: React.FC<{ Recipe: Recipe }> = ({ Recipe }) => {
     servings,
     short_description,
   } = Recipe;
-  console.log(short_description.text);
   return (
     <div className="w-full bg-white p-6 rounded-md mt-4 flex flex-col lg:flex-row">
       <div className="w-full lg:w-1/3 pr-4 relative h-72 mb-4 lg:mb-0">
@@ -25,7 +24,6 @@ const RecipeHeaderCard: React.FC<{ Recipe: Recipe }> = ({ Recipe }) => {
         )}
       </div>
       <div className="w-full lg:w-2/3">
-        {/* Additional information such as author, date, etc. */}
         <div className="mt-4 flex flex-col lg:flex-row justify-between lg:space-x-4">
           <div className="flex space-x-2 mb-2 lg:mb-0">
             {authors && (
